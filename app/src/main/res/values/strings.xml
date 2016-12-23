@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCheckBox2</string>
+    <string name="sing">唱歌</string>
+    <string name="swim">游泳</string>
+    <string name="write">写java</string>
+    <string name="ok">确定</string>
+</resources>
